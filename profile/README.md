@@ -1,11 +1,31 @@
-# 💫 About Me:
-I'm currently working on <a href="https://a.stupid.cat" target="_blank">a.stupid.cat</a><br>I'm looking to collaborate on anything
+# 💫 About Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AriTheStupidCat&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AriTheStupidCat&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AriTheStupidCat&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Working on <a href="https://a.stupid.cat" target="_blank">a.stupid.cat</a> · Open to collaboration
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Currently learning TypeScript & JavaScript
+
+✨ *Happy to help wherever's needed* Est. 2021 ✨
+
+---
+## 💻 Languages
+HTML · Markdown · YAML · CSS · Python · Bash · PowerShell · JSON
+
+---
+## ⚡ Frameworks & Databases
+Node.js · MongoDB · PostgreSQL
+
+---
+## ☁️ Infrastructure & Networking
+Docker · Docker Compose · Nginx · Apache · Cloudflare · Server Maintenance · DNS · dotenvx · OpenSSH · Nmap · Tor
+
+---
+## 🧰 Development & CLI
+VSCodium · Git · Forgejo · GitHub CLI · NPM · Bun · PNPM · Prettier · ESLint · Lazygit · Fast/Hyfetch
+
+---
+## 🖥️ Environment
+Arch Linux · KDE Plasma · GNOME · Sway/Swayfx · Kitty
+
+---
+## 🎨 Creative
+Kdenlive · OBS Studio · Canva
