@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Working on <a href="https://a.stupid.cat" target="_blank">a.stupid.cat</a> · Open to collaboration
+Working on <a href="https://ari.rip" target="_blank">ari.rip</a> · Open to collaboration
 
 Currently learning TypeScript & JavaScript
 
