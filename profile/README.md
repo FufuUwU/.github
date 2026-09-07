@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Working on <a href="https://ari.rip" target="_blank">ari.rip</a> · Open to collaboration
+Working on <a href="https://a.is-a.dev" target="_blank">a.is-a.dev</a> · Open to collaboration
 
 Currently learning TypeScript & JavaScript
 
